@@ -1,0 +1,14 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  background-color: #dfd;
+  background: url("./tennis-bg.jpeg") no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+canvas{
+  border-top: 2px solid #ddd ;
+  border-bottom: 2px solid #ddd ;
+}
